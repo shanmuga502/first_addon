@@ -1,27 +1,2 @@
 name= Ant Man url= "http://dl.hastidownload.com/1/Ant.Man.2015.720p.HDrip.ShAaNiG.mkv" logo= "https://m.media-amazon.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_FMjpg_UX1000_.jpg"
-name= Creed url= "https://www.koimoi.com/wp-content/new-galleries/2023/01/kicking-off-phase-5-of-the-marvel-cinematic-universe-the-fast-paced-big-screen-adventure-ant-man-and-the-wasp-quantumania-features-mcus-most-powerful-villain-to-date-kang-the-conquer-01.jpg"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+name= Creed url= "http://dl.hastidownload.com/1/Ant.Man.2015.720p.HDrip.ShAaNiG.mkv" logo= "https://m.media-amazon.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_FMjpg_UX1000_.jpg"
